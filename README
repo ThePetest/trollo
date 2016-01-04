@@ -1,0 +1,4 @@
+1. sqlite3 timetrack.db < timetrack.sql
+2. fill custom values in trollo-secret.py
+3. setup crontab (e.g. 0 5 * * * /usr/bin/python /home/ubuntu/trollo/trollo-cronjob.py)
+4. setup trello (TODO)

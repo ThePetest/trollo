@@ -1,0 +1,6 @@
+requests
+requests-oauthlib
+python-dateutil
+httplib2
+oauthlib
+py-trello
